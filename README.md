@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krish</h1>
 <h3 align="center">A passionate learner about frontend and machine learning</h3>
 
-- 🌱 I’m currently learning **frameworks,VFX,Blender,machine learning**
+- 🌱 I’m currently learning **frameworks,machine learning**
 
 - 📫 How to reach me **krishduplicate390@gmail.com**
 
